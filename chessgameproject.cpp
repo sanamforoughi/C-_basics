@@ -245,7 +245,7 @@ int main (void) {
 }
 
 
-//int main()
+//int main() 
 //{//
   //  int number = 0;// this is a declaration
    // cout << "Let's learn!\n";
