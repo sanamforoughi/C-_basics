@@ -170,7 +170,7 @@ int main (void) {
     124
     cout << "commands: exit = quit, abort = quit, print = displays the board," << endl << "new = new game" << endl << endl;
     125
-    
+    // can add cout function to tell the user about the input
     126
     string passd; // this will be the string that contains info from the user
     127
@@ -220,7 +220,7 @@ int main (void) {
             149
             b = passd[1] - '1';
             150
-            c = passd[2] - 'a';
+            c = passd[2] - 'a'; // u havnt deine neither c or d as an integer 
             151
             d = passd[3] - '1';
             152
